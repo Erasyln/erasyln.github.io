@@ -1,0 +1,15 @@
+.first{
+    filter: blur(3px);
+}
+.second{
+    filter: brightness(40%);
+}
+.third{
+    filter: contrast(10%);
+}
+.four{
+    filter: grayscale(75);
+}
+.fifth{
+    filter: saturate(300%);
+}
